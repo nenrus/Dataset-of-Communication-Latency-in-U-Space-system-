@@ -1,6 +1,8 @@
 This dataset is the result of experiment in U-Space communication comparing push-pull protocol that represented by the REST-API (Representational State Transfer - Application Program Interface) and publisher-subscriber protocol that represented by AMQP (Advanced Message Queuing Protocol).
 
-The dataset is structured in CSV files consisting parameters: sending timestamp, received timestamp, latency, and acknowledgement message in 100 lines of data. The filename represent the interval and message size used in the experiment. It is categorized into API and AMQP, then datetime of the experiment.
+The dataset is structured in CSV files consisting parameters: sending timestamp, received timestamp, latency, and acknowledgement message in 100 lines of data. The filename represent the interval and message size used in the experiment. It is categorized into API and AMQP folders, then datetime of the experiment.
+
+The python codes to run the experiments are also available here, but you need to update the link to use your own destination server and broker.
 
 Further information about the experiment and information extracted from the dataset can be found in the manuscript via this link:
 
