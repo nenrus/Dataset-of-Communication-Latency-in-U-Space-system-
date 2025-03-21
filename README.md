@@ -4,7 +4,7 @@ The dataset is structured in CSV files consisting parameters: sending timestamp,
 
 The python codes to run the experiments are also available here, but you need to update the link to use your own destination server and broker.
 
-Further information about the experiment and information extracted from the dataset can be found in the manuscript via this link: http://dx.doi.org/10.13140/RG.2.2.18747.94240
+Further information about the experiment and information extracted from the dataset can be found in the manuscript with title: "Analysis of Communication Latency in U-Space system using Push-Pull and Publisher-Subscriber Protocols" via this link: http://dx.doi.org/10.13140/RG.2.2.18747.94240
 
 The result was presented at the 1st International Conference on Drones and Unmanned Systems (DAUS' 2025), 19-21 February 2025 in Granada, Spain. You can watch the presentation video via this link: https://www.youtube.com/watch?v=HSSktZhPtpE
 
